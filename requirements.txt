@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-hub
+langchain-ollama
+faiss-cpu
+tiktoken
+PyMuPDF
+pandas
+unstructured
+ollama
