@@ -23,7 +23,7 @@ A lightweight, user-friendly **RAG (Retrieval-Augmented Generation)** based chat
 chatbot_rag.py                 # Main Streamlit app
 chat_history_aapka_sathi.db    # SQLite DB to store chat history
 vector_db/                     # FAISS Vector Store directory
-
+```
 
 
 ## 🚀 Getting Started
